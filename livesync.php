@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: LiveSync
-Plugin URI: http://svn.wp-plugins.org/livesync/
+Plugin URI: http://www.kapowaz.net/livesync/
 Description: Allows synchronisation between live and local installations of WordPress via the WordPress Administration Interface
 Author: Ben Darlow
 Version: 1.0
