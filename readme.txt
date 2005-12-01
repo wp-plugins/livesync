@@ -15,9 +15,9 @@ Version 1.0 (30 November 2005)
 Installation Instructions
 -------------------------
 
-Download and extract the tarball contents to your 
-/<wordpress install>/wp-content/plugins/ directory, then enable the plugin via 
-the Plugins screen of WordPress admin.
+Download the file livesync.php and place this in a directory called /livesync
+within your /<wordpress>/wp-content/plugins directory, then enable the plugin 
+via the Plugins screen of WordPress admin.
 
 License Information
 -------------------
